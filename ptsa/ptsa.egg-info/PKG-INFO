@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: ptsa
+Version: 0.1
+Summary: Python toolkil for timeseries anomoly detection
+Home-page: https://github.com/alacrity2001/SensorCleaning/tree/master/ptsa
+Author: Yinchen Wu
+Author-email: yinchen@uchicago.edu
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
