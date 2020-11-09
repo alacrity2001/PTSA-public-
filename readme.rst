@@ -5,6 +5,7 @@ Python TimeSeries Anomaly Detection (PTSA)
 
 PTSA(in deveopment) is a comprehensive and scalable **Python toolkit** for **detecting anomalies** in
 timeseries data. I already included 20 algorithms in the package, and more will come as I keep developing the package. 
+There is a python notebook demo about how to use the package. 
 
 
 
